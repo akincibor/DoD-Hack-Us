@@ -14,6 +14,7 @@ cap.mil
 capmed.mil
 centcom.mil
 cloud.mil
+crmforce.mil
 cto.mil
 cyber.mil
 cybercom.mil
@@ -100,10 +101,12 @@ norad.mil
 northcom.mil
 nro.mil
 nsin.mil
+opa.mil
 osd.mil
 pacom.mil
 pentagon.mil
 pfpa.mil
+repi.mil
 sapr.mil
 sigar.mil
 soc.mil
@@ -119,6 +122,8 @@ uscg.mil
 usfk.mil
 usmc.mil
 ustranscom.mil
+usuhs.mil
 warriorcare.mil
+web.mil
 whs.mil
 yellowribbon.mil
